@@ -1,0 +1,9 @@
+1° dotnet new console -o MyApp -f net6.0
+
+2° cd MyApp
+
+3° dotnet run
+
+4° adicionar a linha "Console.WriteLine("The current time is " + DateTime.Now);"
+
+5° dotnet run
